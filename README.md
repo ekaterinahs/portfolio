@@ -3,39 +3,32 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Python](#python)
 - [Machine Learning](#machine-learning)
 - [Data Engineering](#data-engineering)
-- [SQL](#sql)
-
-# Python
-
-| Project Link | Tools | Project Description | 
-|---|---|---|
-| 📚 [Project link](https://github.com/ekaterinahs/) | Tools | Project description. |
+- [Data Analysis & SQL](#data-analysis--sql)
 
 ***
 
 # Machine Learning
 
-| Project Link | Tools | Project Description | 
+| Project Link | Keywords | Project Description | 
 |---|---|---|
-| 📚 [Project link](https://github.com/ekaterinahs/) | Tools | Project description. |
+| 👗 [H&M Personalized Fashion Recommendations](https://github.com/ekaterinahs/kaggle-competitions/blob/main/Competition%20%231%20-%20H%26M%20Personalized%20Fashion%20Recommendations/README.md) | Python, Recommender Systems, EDA | Developed a personalized recommendation system for H&M’s Kaggle competition, leveraging extensive feature engineering and advanced machine learning techniques to generate tailored fashion recommendations that improve customer engagement and optimize product rankings. |
 
 ***
 
 # Data Engineering
 
-| Project Link | Tools | Project Description | 
+| Project Link | Keywords | Project Description | 
 |---|---|---|
-| 📚 [Project link](https://github.com/ekaterinahs/) | Tools | Project description. |
+| 📚 [Project link](https://github.com/ekaterinahs/) | Keywords | Project description. |
 
 ***
 
-# SQL
+# Data Analysis & SQL
 
-| Project Link | Tools | Project Description | 
+| Project Link | Keywords | Project Description | 
 |---|---|---|
-| 📚 [Project link](https://github.com/ekaterinahs/) | Tools | Project description. | 
+| 📚 [Project link](https://github.com/ekaterinahs/) | Keywords | Project description. | 
 
 ***
