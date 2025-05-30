@@ -29,6 +29,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Keywords | Project Description | 
 |---|---|---|
-| 🎶 [Spotify Playlist Analysis Dashboard]([https://github.com/ekaterinahs/](https://github.com/ekaterinahs/my-spotify-wrapped/blob/main/README.md)) | Python, Streamlit, Spotify API, Data Visualization, EDA | Built a Streamlit-based web application that allows users to input a Spotify playlist URL and performs various analyses on the playlist. The tool extracts insights such as the top artists by song count, the average song popularity, individual song popularity ratings, and the release dates of the tracks. It provides an interactive and user-friendly dashboard to visualize key aspects of the playlist's composition and trends. | 
+| 🎶 [Spotify Playlist Analysis Dashboard](https://github.com/ekaterinahs/my-spotify-wrapped/blob/main/README.md) | Python, Streamlit, Spotify API, Data Visualization, EDA | Built a Streamlit-based web application that allows users to input a Spotify playlist URL and performs various analyses on the playlist. The tool extracts insights such as the top artists by song count, the average song popularity, individual song popularity ratings, and the release dates of the tracks. It provides an interactive and user-friendly dashboard to visualize key aspects of the playlist's composition and trends. | 
 
 ***
